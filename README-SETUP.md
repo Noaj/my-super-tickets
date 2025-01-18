@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Clone the project from github
 
-`npm install`
+`git clone https://github.com/Noaj/my-super-tickets.git`
 
 ## Available Scripts
 
