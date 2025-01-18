@@ -30,7 +30,7 @@ function BandList({ bands, onBandClick }) {
             }
           >
             <img
-              src={band.imgUrl}
+              src={band.imgUrl} //Future TODO: Add a placeholder img here just in case the band img is null
               alt={band.name}
               style={{
                 width: "120px",
